@@ -7,5 +7,5 @@ jobs:
   open-restaurant:
     runs-on: ubuntu-latest
     steps:
-      - name: Annonce d'ouverture
-        run: echo "restaurant ouvert !"
+      - name: resaurant ouvert
+        run: echo "restaurant ouvert"
